@@ -1,0 +1,21 @@
+body {
+    background-color:black; 
+    color: #ffffff; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+header {
+    background-color:black; 
+    color: #ffffff; 
+    padding: 10px;
+    text-align: center;
+  }
+  nav {
+    color: black;
+  }
+  .card-img-top {
+    position: center;
+        width: 30%;
+        border-width: 2px;
+    
+        height: 30%;
+  }
